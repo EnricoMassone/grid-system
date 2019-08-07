@@ -113,3 +113,17 @@ header {
   border-radius: 0.5em;
   padding: 1.5em;
 }
+
+.media-image {
+  float: left;
+  margin-right: 1.5em;
+}
+
+.media-body {
+  margin-top: 0;
+  overflow: auto;
+}
+
+.media-body h4 {
+  margin-top: 0;
+}
